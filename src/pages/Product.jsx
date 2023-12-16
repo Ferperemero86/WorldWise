@@ -1,6 +1,6 @@
 import styles from "./Product.module.scss";
 
-import PageNav from "@/components/PageNav";
+import PageNav from "@/components/PageNav/PageNav";
 
 export default function Product() {
   return (

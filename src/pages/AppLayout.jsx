@@ -1,9 +1,13 @@
 import styles from "./AppLayout.module.scss";
 
+import Sidebar from "@/components/Sidebar/Sidebar";
+import Map from "@/components/Map/Map";
+
 function AppLayout() {
   return (
     <div className={styles.app}>
-      <h1>Layout</h1>
+      <Sidebar />
+      <Map />
     </div>
   );
 }
