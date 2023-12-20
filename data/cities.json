@@ -35,66 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-19T12:42:34.056Z",
-      "notes": "Test",
-      "position": {
-        "lat": "39.9858014704838",
-        "lng": "-0.03810882568359376"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "l'Alcora",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-19T12:46:12.286Z",
-      "notes": "",
-      "position": {
-        "lat": "40.065460682065535",
-        "lng": "-0.20874023437500003"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "La Iglesuela del Cid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-19T12:49:23.282Z",
-      "notes": "",
-      "position": {
-        "lat": "40.478292268560175",
-        "lng": "-0.32409667968750006"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Gandesa",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-19T12:50:58.084Z",
-      "notes": "",
-      "position": {
-        "lat": "41.03171529379291",
-        "lng": "0.46142578125000006"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Pradell de la Teixeta",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-19T12:50:58.084Z",
-      "notes": "",
-      "position": {
-        "lat": "41.12488359929119",
-        "lng": "0.83221435546875"
-      },
-      "id": 98443202
     }
   ]
 }
