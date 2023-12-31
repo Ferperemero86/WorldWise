@@ -1,3 +1,16 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "cityName": "Peterborough",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-12-31T12:15:45.928Z",
+      "notes": "",
+      "position": {
+        "lat": "52.570716335889344",
+        "lng": "-0.24822235107421878"
+      },
+      "id": 1
+    }
+  ]
 }
